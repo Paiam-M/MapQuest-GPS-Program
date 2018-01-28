@@ -1,5 +1,4 @@
 #Paiam Moghaddam
-#78512395
 import mapquest_api_handler
 import mapquest_output_generator
 import sys
