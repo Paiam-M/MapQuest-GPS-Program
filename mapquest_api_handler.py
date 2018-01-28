@@ -1,5 +1,4 @@
 #Paiam Moghaddam
-#78512395
 
 import json
 import urllib.request
